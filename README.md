@@ -1,3 +1,1 @@
-# hw1-f24
-
-# Melp Meredith
+# hw1
